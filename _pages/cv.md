@@ -11,54 +11,92 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* St. Croix Preparatory Academy, Class of 2025
+* University of Minnesota, Concurrent Enrollment
 
+Academic Record
+======
+* GPA: 4.0UW/4.876W
+* SAT: 1540, (2022)
+* PSAT/NMSQT: 1480/220, (2023)
+* Valedictorian
+  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Certified Nursing Assistant, The ESTATES at Greeley
+  * Taking care of patients in long term and transitional care units
+  * Duties includes: Charting, Vital Checking, Taking care of daily activity needs
+  * Supervisor: Charge Nurse
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Genomics Researcher, Summer Science Program 
+  * Georgetown University
+  * Duties included: Research Project on Antibiotic Resistance Genes_
+  * Supervisors: Dr. Jeanetta Floyd, Dr. Noel Mano
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Student Research Intern, Kisailus Biomimetics Lab
+  * University of California, Irvine
+  * Duties included: Shadowing and Assisting Post-Doctorate Researcher, Lab Report, Synthesizing compounds
+  * Supervisor: Professor David Kisailus, Dr. Sivasankara Rao Ede
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Microbiology Laboratory Skills
+  * Micropipetting
+  * Aseptic Technique
+  * Natural Transformation
+  * PCR and Primer Design
+  * Chemostat Experimental Setup
+  * Antibiotic Resistance Profiling
+  * Stock Extraction
+  * gDNA extraction
+  * Nanodrop Purity Assesment
+  * Chemostat Calibration
+* Bioinformatics
+  * blastp
+  * blastn
+  * AlphaFold
+  * UniProt
+  * Clustalo
+  * _de novo_ genome assembly
+  * mutation identification
+  * ONT data filtering
+  * IGV
+    
+* Material Science Laboratory Skills
+  * Pelleting and Extraction
+  * Scanning Electron Microscopy
+  * X-Ray Diffraction
+  * Lithium Iron Phosphate Synthesis
+  * UV-Vis
+  * Fume Hood Work
+  * Lab Safety Training
+* Nursing Assistant Certification
+  * Taking and Analyzing Vital Signs
+  * Patient Transport
+  * Patient ROM testing
+  * Charting
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Council President
+* Discussions on Diversity Executive Director
+* National Honor Society Chapter Secretary
+* Speech Team Captain
+* Local Hospital Volunteer (200+ Hours)
+* International Wolf Center Volunteer (5 years)
+* Carnatic Music Teacher (6 years)
+* HealthPartners Teen Leadership Council Member
+
+Projects
+======
+* Chronic Skin Disease Study (Research Paper)
+* Instagram Singing Account (viksingsalot)
+* Marathon Runner (3 and counting)
+
+Research Interests
+======
+* _S. Aureus_ opportunistic pathogen genetic factors
+* Tobacco affects in Lung Cancer
+* Atopic Dermatitis genetic and environmental factors
+* Proteomic and Transcriptomic analysis of AbR mechanisms
+* Clinical studies of topical steroids used to treat pruritus__
